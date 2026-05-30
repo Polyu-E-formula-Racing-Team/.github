@@ -1,8 +1,8 @@
 # Introduction For New Member
 
-This is the introduction document for new members. We highly recommend any new members to read this introduction to study the function of GitHub and our naming system.
+This is the introduction document for new members. We highly recommend any new members to read this introduction to study the function of GitHub.
 
-Check out the [Guide to new member](https://github.com/Polyu-E-formula-Racing-Team/Guide-for-new-member) for all the guide.
+Check out the [Full Guide to new member](https://github.com/Polyu-E-formula-Racing-Team/Guide-for-new-member) for all the guide.
 
 ## GitHub: What is it & How to use
 
