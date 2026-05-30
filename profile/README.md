@@ -4,6 +4,8 @@ This is the introduction document for new members. We highly recommend any new m
 
 Check out the [Full Guide to new member](https://github.com/Polyu-E-formula-Racing-Team/Guide-for-new-member) for all the guide.
 
+Any Utilities need to download please check the [Utilities for members](https://github.com/Polyu-E-formula-Racing-Team/Utilities-for-members) bedore asking our members.
+
 ## GitHub: What is it & How to use
 
 ### What is GitHub?
