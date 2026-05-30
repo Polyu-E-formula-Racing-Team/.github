@@ -2,6 +2,8 @@
 
 This is the introduction document for new members. We highly recommend any new members to read this introduction to study the function of GitHub and our naming system.
 
+Check out the [Guide to new member](https://github.com/Polyu-E-formula-Racing-Team/Guide-for-new-member) for all the guide.
+
 ## Table of Content
 
 - [GitHub: What is it & How to use](#github-what-is-it--how-to-use)
